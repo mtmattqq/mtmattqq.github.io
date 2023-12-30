@@ -1,5 +1,5 @@
 ---
-title: 霍篤蘭德的重生
+title: 霍篤蘭德
 data: 2023-07-27
 tags: 
 - [Introduction]
